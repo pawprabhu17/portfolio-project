@@ -1,0 +1,88 @@
+ .bg{
+ 	background-color: darkgray;
+ }
+ #main-head img{
+	height:54%;
+	width:100%;
+	border: 1.5px solid black;
+}
+.bg-black
+{
+	color: white;
+	background: black;
+}
+
+#main-head .port-item:nth-child(1)
+{
+	width:30%;
+	background-color: #00695C;
+	border: 1.5px solid black;
+}
+#main-head .port-item:nth-child(2)
+{
+	width:30%;
+	background-color: #00796B;
+	border: 1.5px solid black;
+}
+#main-head .port-item:nth-child(3)
+{
+	width:30%;
+	background-color: #00897B;
+	border: 1.5px solid black;
+}
+#main-head .port-item:nth-child(4)
+{
+	width:30%;
+	background-color: #009688;
+	border: 1.5px solid black;
+}
+#main-head .port-item:hover{
+	opacity: 0.85;
+	cursor: pointer;
+
+}
+#home .card:nth-child(1){
+	background-color: #00C853;
+}
+#resume .card-body:nth-child(1){
+	background-color: #3F51B5;
+}
+#resume .card-body:nth-child(2){
+	background-color: #E0E0E0;
+	border:2px solid black;
+}
+#resume .abc{
+	background-color: #FFF;
+	border:1px solid black;
+}
+#resume .link{
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+	font-family: 
+}
+#resume .link:hover{
+	color:white;
+}
+#resume .btn{
+	border:1px solid black;
+	width:12rem;
+}
+#work .card:nth-child(1){
+	background-color: #AB47BC;
+}
+#work .card:nth-child(2){
+	background-color: #E0E0E0;
+}
+#work .m-4{
+	font-family: 'Lobster', cursive;d 
+}
+#work .shadow{
+	border:1px solid black;
+	box-shadow: 5px 5px 5px grey;
+}
+@media (max-width: 2000px)and (min-width: 1199px){
+	.port-item{
+		padding: 3em !important;
+	}
+}
