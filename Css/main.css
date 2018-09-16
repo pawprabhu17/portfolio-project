@@ -21,19 +21,19 @@
 #main-head .port-item:nth-child(2)
 {
 	width:30%;
-	background-color: #00796B;
+	background-color: #1B5E20;
 	border: 1.5px solid black;
 }
 #main-head .port-item:nth-child(3)
 {
 	width:30%;
-	background-color: #00897B;
+	background-color: #FF6F00;
 	border: 1.5px solid black;
 }
 #main-head .port-item:nth-child(4)
 {
 	width:30%;
-	background-color: #009688;
+	background-color: #BF360C;
 	border: 1.5px solid black;
 }
 #main-head .port-item:hover{
@@ -42,10 +42,11 @@
 
 }
 #home .card:nth-child(1){
-	background-color: #00C853;
+	background-color: 
+#00695C;
 }
 #resume .card-body:nth-child(1){
-	background-color: #3F51B5;
+	background-color: #1B5E20;
 }
 #resume .card-body:nth-child(2){
 	background-color: #E0E0E0;
@@ -69,7 +70,7 @@
 	width:12rem;
 }
 #work .card:nth-child(1){
-	background-color: #AB47BC;
+	background-color: #FF6F00;
 }
 #work .card:nth-child(2){
 	background-color: #E0E0E0;
